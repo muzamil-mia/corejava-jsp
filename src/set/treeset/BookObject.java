@@ -18,7 +18,7 @@ class Book implements Comparable<Book>{
 	}
 	@Override
 	public int compareTo(Book o) {
-		return id - o.id;
+		return this.id - o.id;
 	}
 }
 

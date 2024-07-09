@@ -49,7 +49,7 @@ public class HashMapExample1 {
 	    //Third way of traversing the map
 	    Iterator itr = entries.iterator();
 	    while(itr.hasNext()) {
-	    	System.out.println(itr.next());n
+	    	System.out.println(itr.next());
 	    }
 	    
 	}

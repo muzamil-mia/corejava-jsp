@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4d2efe8-8959-4c50-abfc-6555d762b74c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/collectionframework/sorting/comparable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collectionframework/sorting/comparable/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collectionframework/sorting/comparable/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collectionframework/sorting/comparable/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collectionframework/sorting/comparator/Student1User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collectionframework/sorting/comparator/Student1User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collectionframework/sorting/comparator/lambdaexpression/LambdaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collectionframework/sorting/comparator/lambdaexpression/LambdaDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collectionframework/sorting/comparator/lambdaexpression/StudentUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collectionframework/sorting/comparator/lambdaexpression/StudentUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/map/hashmap/HashMapExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/map/hashmap/HashMapExample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/string/Distinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/Distinct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/string/DistinctElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/DistinctElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionframework/listinterface/arraylist/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionframework/listinterface/arraylist/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionframework/sorting/comparable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionframework/sorting/comparable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionframework/sorting/comparator/Student1User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionframework/sorting/comparator/Student1User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionframework/sorting/comparator/lambdaexpression/LambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionframework/sorting/comparator/lambdaexpression/LambdaDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collectionframework/sorting/comparator/lambdaexpression/StudentUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionframework/sorting/comparator/lambdaexpression/StudentUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/hashmap/HashMapExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/hashmap/HashMapExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set/treeset/BookObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set/treeset/BookObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/Distinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/Distinct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/DistinctElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/DistinctElements.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2iuhRnqSLn9pwH1Nmk31lcGpL6R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/core_java/corejava-jsp"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4d2efe8-8959-4c50-abfc-6555d762b74c" name="Changes" comment="" />
+      <created>1720346368203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720346368203</updated>
+    </task>
+    <servers />
+  </component>
+</project>

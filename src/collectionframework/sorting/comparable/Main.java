@@ -25,8 +25,6 @@ public class Main  {
 //            System.out.println(kunal.compareTo(rahul));
 //            System.out.println("Rahul has more marks");
 //        }
-
-		
 	}
 
 }

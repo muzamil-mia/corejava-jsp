@@ -9,13 +9,12 @@ interface A {
 //so if we have this scenario where we are using the class only once then why to even create that class
 //
 
-// class ImplementingA implements  A {
+// class ImplementingA implements A {
 //
 //	@Override
 //	public void show() {
 //		System.out.println("showing");
 //	}
-//	
 //}
 
 public class LambdaDemo {

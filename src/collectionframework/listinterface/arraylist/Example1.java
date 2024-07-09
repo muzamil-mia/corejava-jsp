@@ -23,7 +23,7 @@ public class Example1 {
 		
 		//traversing list through iterator
 		Iterator itr = list.iterator();
-		while(itr.hasNext()) {
+		while(itr.hasNext()) { 
 			System.out.println(itr.next());
 		}
 		
